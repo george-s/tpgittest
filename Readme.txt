@@ -1,4 +1,5 @@
-a
+aaa:w
+:
 TPID:64
 first file
 iaa
